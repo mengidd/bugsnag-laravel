@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Mengidd\\BugsnagLaravel\\": "src/"
+            "Bugsnag\\BugsnagLaravel\\": "src/"
         }
     }
 }
